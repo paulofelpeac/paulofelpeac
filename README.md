@@ -1,4 +1,4 @@
-- 👋 Olá! Eu sou @paulofelpeac
+- 👋 Olá! Eu sou @paulofelpeac 💻
 - 👀 Um entusiasta da tecnologia e apaixonado por aprender e explorar novas áreas do conhecimento.
 - 🌱 Atualmente, trabalho como Gerente de Projetos em MJSP, onde tenho a oportunidade de mergulhar em desafios emocionantes e colaborar com uma equipe talentosa.
 - 💞️ Sou formado em Análise e Desenvolvimento de Sistemas e Redes de Computadores. Atualmente estou cursando Ciência da Computação. 
